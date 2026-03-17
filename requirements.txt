@@ -1,4 +1,0 @@
-requests        //==2.31.0
-playwright      //==1.42.0
-html2text       //==2024.2.26
-tkinter         //==0.1.0
