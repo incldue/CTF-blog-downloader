@@ -4,7 +4,7 @@
 ![Target](https://img.shields.io/badge/target-CTF_Knowledge_Base-orange.svg)
 ![Playwright](https://img.shields.io/badge/powered%20by-Playwright-008080.svg)
 
-**博客下载助手(CTFer)** 是一款专为 CTFer 打造(不仅限于CTFer)的线下赛本地知识库构建工具。它可以快速将先知社区、博客园、CSDN 上的高质量 Writeup、漏洞分析和工具脚本转换为 Markdown 文档，方便在无网环境下通过 Obsidian 或 Typora 等笔记软件进行检索与查阅。
+**博客下载助手(CTFer)** 是一款专为 CTFer 打造(不仅限于CTFer)的线下赛本地知识库构建工具。它可以快速将先知社区、博客园、CSDN 上的高质量 Writeup、漏洞分析和工具脚本转换为 Markdown 文档，方便在无网环境下通过 Obsidian 或 Typora 等笔记软件进行检索与查阅。(已在https://linux.do/发帖)
 
 [本项目灵感来自于学长[YZBRH (BR)](https://github.com/YZBRH)的博客下载助手，对其进行了浏览器的脱离]
 
